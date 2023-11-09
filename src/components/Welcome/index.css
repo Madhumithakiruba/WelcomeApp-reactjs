@@ -1,0 +1,25 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+}
+.app-container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.welcome-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+}
+.text {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
